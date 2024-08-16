@@ -1,5 +1,7 @@
 # Blogapp
 
+figma file : https://www.figma.com/design/Em2Nh90p7RXnr1OvLOPWVC/blog?node-id=0-1&t=J5aZ3v0PX508hboJ-1
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.6.
 
 ## Development server
